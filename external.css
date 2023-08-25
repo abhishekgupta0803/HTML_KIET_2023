@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+
+}
+    h1{
+        color: blue;
+    }
+    p{
+        color: red;
+        font-style: italic;
+        border: 3px solid black;
+    }
+
